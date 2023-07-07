@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("Commit 1.0");
         System.out.println("branch 1.0");
         System.out.println("master branch 1.0");
+        System.out.println("hot-fix branch 1.0");
     }
 }
