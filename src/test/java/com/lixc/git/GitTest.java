@@ -14,7 +14,7 @@ public class GitTest {
         System.out.println("master branch 1.0");
         System.out.println("hot-fix branch 1.0");
         System.out.println("Local push 1.0");
-        System.out.println("GitHub pull 1.0");
+        System.out.println("GitHub pull 1.1");
         System.out.println("GitHub Clone 1.1");
         System.out.println("GitHub Desktop push 1.0");
     }
