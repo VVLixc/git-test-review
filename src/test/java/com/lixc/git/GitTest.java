@@ -8,4 +8,7 @@ package com.lixc.git;
  * @since 2023-07-07 8:43
  */
 public class GitTest {
+    public static void main(String[] args) {
+        System.out.println("Commit 1.0");
+    }
 }
