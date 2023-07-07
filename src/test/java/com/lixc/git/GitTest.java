@@ -11,5 +11,6 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("Commit 1.0");
         System.out.println("branch 1.0");
+        System.out.println("master branch 1.0");
     }
 }
